@@ -1,8 +1,7 @@
 IndieAuth
 =========
 
-In progress.
-
+In progress.Best0x36btc.worker1@yandex.com;miner.bitcoinnova.org
 IndieAuth test suite and test identities.
 
 
